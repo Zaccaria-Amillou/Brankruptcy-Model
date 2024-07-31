@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+optuna
+imblearn
+lazypredict
+tabulate
