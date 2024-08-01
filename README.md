@@ -8,6 +8,7 @@ Dans le secteur financier, prédire la faillite est crucial pour prendre des dé
 
 L'objectif de ce projet est de développer un modèle prédictif pour prévoir la faillite des entreprises en utilisant des techniques d'apprentissage automatique. En exploitant des méthodes de modélisation avancées, le but est de construire un modèle robuste et précis qui peut efficacement prédire la probabilité de faillite et fournir des informations précieuses aux décideurs.
 
+[Lien vers le Notebook](https://github.com/Zaccaria-Amillou/Brankruptcy-Model/blob/main/notebook/notebook.ipynb)
 ## Aperçu des Données
 
 Le jeu de données utilisé dans ce projet provient de Kaggle et est intitulé [Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction). Ce jeu de données contient des informations sur les faillites provenant du Taiwan Economic Journal pour les années 1999-2009. Il inclut une gamme de métriques financières, telles que les ratios de rentabilité, les ratios de liquidité et d'autres indicateurs financiers pertinents utilisés pour évaluer la santé financière d'une entreprise et prédire la probabilité de faillite.
